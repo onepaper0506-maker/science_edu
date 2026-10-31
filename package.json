@@ -1,0 +1,1 @@
+{"name":"science-edu-digestion-lab","private":true,"type":"module","scripts":{"test":"node --test --test-isolation=none"}}
